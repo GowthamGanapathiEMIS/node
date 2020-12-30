@@ -15,12 +15,6 @@
     "redux-form": "^8.3.7",
     "redux-thunk": "^2.3.0"
   },
-  "peerDependencies": {
-    "jest": "26.6.0"
-  },
-  "devDependencies": {
-    "jest": "26.6.0"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
